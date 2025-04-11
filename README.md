@@ -2,6 +2,14 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building impactful projects. Here's a list of my recent projects!
 
+### Publications
+
+**Evanescent wave interactions with nanoparticles on optical fiber modulate side emission of germicidal ultraviolet light**  
+*Emma Westerhoff, H. Jung, A. Burwell, S. Zhang, and P. Bermel*  
+[View Publication](https://doi.org/10.1364/OME.481177)  
+*Optical Materials Express, Vol. 13, Issue 7, 2023*
+
+
 ### Neuromorphic Hardware  
 **Software Modeling of In-Sensor Reservoir Computing**  
 *Spring 2025 – Current*
